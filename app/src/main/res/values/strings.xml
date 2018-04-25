@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">kolos</string>
+    <string name="title">Title</string>
+    <string name="generate">Generate</string>
+    <string name="has_a">Hasła:</string>
+    <string name="save">Save</string>
+</resources>
